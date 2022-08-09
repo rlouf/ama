@@ -1,5 +1,7 @@
 # Ask me Anything!
 
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/rlouf/ama?label=Answered)
+
 I am getting many emails/Twitter DMs and most of the answers could benefit a more general audience. So let's make them public. Ask away! 
 
 _Anything_? **Anything!** Code. Cooking. Parenting. Life. Career. 
