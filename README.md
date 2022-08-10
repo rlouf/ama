@@ -9,4 +9,4 @@ There are only two rules:
 2. DRQ (Don't Repeat Questions). 
 
 ### 🖐️ [Ask a question](../../discussions/new) 
-### 👀 [Read answers](../../discussions) 
+### 👀 [Read answers](../../discussions/categories/ask-me?discussions_q=category%3A"Ask+me"+is%3Aanswered) 
